@@ -26,18 +26,18 @@ The structure of the course is as follows:
 
 ## Working with data
 
-    Data Analysis Libraries
-    Advanced Data Structures
-    Importing / Exporting Data
-    Working with DataFrames
-    Summary Statistics
-    Tables
+* Data Analysis Libraries
+* Advanced Data Structures
+* Importing / Exporting Data
+* Working with DataFrames
+* Summary Statistics
+* Tables
 
 ## Visualisation
 
-    Static Visualisation
-    Statistical Visualisation
-    Interactive Visualisation
+* Static Visualisation
+* Statistical Visualisation
+* Interactive Visualisation
 
 ## Credits
 
