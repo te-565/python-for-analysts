@@ -39,7 +39,7 @@ The structure of the course is as follows:
     Statistical Visualisation
     Interactive Visualisation
 
-## redits
+## Credits
 
 Massive thanks to Emma Beynon for her work on the Statistics and Machine Learning notebooks and also for her help in QA'ing and delivering this.
 
