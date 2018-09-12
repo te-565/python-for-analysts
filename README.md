@@ -21,8 +21,8 @@ I've split up the original repo (which was a wall of Jupyter Notebooks) into sep
 
 Presently the **5. other** folder contains a mixture of stuff that will be refactored into new sections of the training as I go. For a detailed breakdown of what's included in each of the folders, check out the individual README.md files (most of which aren't written yet!)
 
+I've added a [github project](https://github.com/Tommo565/python-for-analysts/projects) to log all the stuff I'm planning also, so feel free to check that out.
+
 ## Credits
 
 Massive thanks to Emma Beynon for her work on the Statistics and Machine Learning notebooks and also for her help in QA'ing and delivering this.
-
-Also another massive thanks to Jose Portilla whose excellent Python For Analysis and visualisation served as much of the inspiration for this course. You can check out his course on Udemy here: 
