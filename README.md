@@ -1,56 +1,28 @@
 
 # Python for Analysts Training
 
-Hi! And welcome to the Python for Analysts training course. This covers everything you need to know to start using Python for data analysis and visualisation as well as showcasing some more advanced and snazzy stuff, including Statistics, Machine Learning, Web Scraping / Interaction etc.
+## Introduction
 
-The course assumes no prior knowledge of Python and will teach you everything you need to know in order to use Python for data analysis and visualisation, including interfacing with Python via the Jupyter interface, using Text Editors / Integrated Development Environments (IDEs), upgrading Python, working with the command line etc.
+Hi! And welcome to my Python for Analysts training course!
 
-Lastly, note that the course can only hope to give you an introduction to Python for Data Analysis over the 3 days. You'll no doubt want to continue your learning afterward, and the course provides links to relevant material with which to further your development.
+I originally wrote this a couple of years ago when I was first starting out with Python and my career as a data scientist. I had come from a background of SAS and Excel and once I'd taken [Jose Portilla's excellent Udemy Course](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) I was blown away by how easy, intuitive and powerful Python was for data analaysis and data science and wanted to create my own training course both so I could share the awesomeness of Python with others, and also as a means to document and share my learning.
 
-## Structure of the Course
+After two years in the wilderness I've decided to come back to it and update the repo, both in terms of the original content (some of which I've re-written!) and also to add the stuff I've learned in the interim. This is still a work in progress but having drafted a few chapters on ML, I'm very much back into it and am looking forward to adding to it over the course of the next few weeks and months.
 
-The course is designed to cover the best part of 2 days with time for exercises and consolidation in between.
+## Structure
 
-You will be expected to have a project to practice with ideally for days 1 and 2 but definitely for day 3! This will allow you to consolidate your Python training and continue to learn and develop.
+I've split up the original repo (which was a wall of Jupyter Notebooks) into separate folders as follows:
 
-The structure of the course is as follows:
+1. basics
+2. data_analysis
+3. data_viz
+4. machine_learning
+5. other
 
-## The Basics
-
-* Interfacing with Python
-* Basic Python Sytnax
-* Data Structures
-* Coding concepts
-* Looping
-* Enhancing Python with Packages
-
-## Working with data
-
-* Data Analysis Libraries
-* Advanced Data Structures
-* Importing / Exporting Data
-* Working with DataFrames
-* Summary Statistics
-* Tables
-
-## Visualisation
-
-* Static Visualisation
-* Statistical Visualisation
-* Interactive Visualisation
-
-## Advanced Concepts
-
-* Using APIs
-* Web Scraping
-* Statistics
-* Machine Learning
-* Natural Language Processing
-
-It also contains the Training Cookbook.py file containing pre-baked useful code for you to pinch at your leisure.
+Presently the **5. other** folder contains a mixture of stuff that will be refactored into new sections of the training as I go. For a detailed breakdown of what's included in each of the folders, check out the individual README.md files (most of which aren't written yet!)
 
 ## Credits
 
 Massive thanks to Emma Beynon for her work on the Statistics and Machine Learning notebooks and also for her help in QA'ing and delivering this.
 
-Also another massive thanks to Jose Portilla whose excellent Python For Analysis and visualisation served as much of the inspiration for this course. You can check out his course on Udemy here: https://www.udemy.com/learning-python-for-data-analysis-and-visualization/
+Also another massive thanks to Jose Portilla whose excellent Python For Analysis and visualisation served as much of the inspiration for this course. You can check out his course on Udemy here: 
